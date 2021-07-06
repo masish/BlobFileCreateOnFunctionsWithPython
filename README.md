@@ -1,0 +1,2 @@
+# BlobFileCreateOnFunctionsWithPython
+Azure Functions の HTTPトリガーで Blob ストレージへファイルを作ってみるサンプル
